@@ -1,0 +1,9 @@
+git init : để khởi tạo git 
+Git add File:  để thêm file vào git
+Git commit -m"tên file" để khởi tạo commit
+Git reset --hard : reset lại hết commit
+git remote add origin địa chỉ : add thư mục dự án của git
+git push -u origin master : update file lên github
+git log để xem tất cả commit
+git checkout : quay lại phiên bản commit khác
+git remote remove origin : xóa repositories

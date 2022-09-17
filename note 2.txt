@@ -1,0 +1,8 @@
+1. thẻ <br> : xuống dòng
+2. thẻ <ol> : tạo ra danh sách có thứ tự
+3. thẻ <ul> : tạo ra danh sách k có thứ tự
+4. thẻ <hr> : đường kẻ ngang
+5. thẻ <p> : Paragrap
+6. thẻ <pre> : giữ nguyên trạng thái xuống dòng.
+7. Thẻ <table> : tạo bảng
+8. <table Borded="1"> viền =1
